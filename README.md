@@ -1,6 +1,6 @@
 # Business-Insights-360
 
-## Live Dashboard: _[Business Insights 360]_https://app.powerbi.com/view?r=eyJrIjoiY2Q3YzhmYTQtMTk3YS00NDlhLWIyNWUtZTI5NWUyNjk1MWQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+## Live Dashboard: _[Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiY2Q3YzhmYTQtMTk3YS00NDlhLWIyNWUtZTI5NWUyNjk1MWQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 ## Home Page :
 
 
